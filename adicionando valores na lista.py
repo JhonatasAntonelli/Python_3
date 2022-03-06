@@ -1,4 +1,4 @@
-numero = int(input('Digite um número: '))
+numero = int(input('Digite um número que você deseja: '))
 lista = []
 while numero != 0:
     numero = int(input('Digite um número, para encerrar a lista, digite 0: '))
